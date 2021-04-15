@@ -70,7 +70,7 @@ class BankAccount{
 		System.out.println("C.WithDraw");
 		System.out.println("D.Previous transaction");
 		System.out.println("E. EXIT");
-	
+
 		do{
 			System.out.println("Enter an option:");
 			option = scanner.next().charAt(0);
